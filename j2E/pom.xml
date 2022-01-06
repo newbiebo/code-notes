@@ -11,6 +11,7 @@
     <modules>
         <module>lambda</module>
         <module>stream</module>
+        <module>genericity</module>
     </modules>
 <dependencies>
     <dependency>
@@ -24,6 +25,12 @@
         <groupId>org.kohsuke</groupId>
         <artifactId>github-api</artifactId>
         <version>1.301</version>
+    </dependency>
+    <dependency>
+        <groupId>com.sinosoft.dlis.common.util</groupId>
+        <artifactId>dlis-util-file</artifactId>
+        <version>1.0.1-SNAPSHOT</version>
+        <classifier>sources</classifier>
     </dependency>
 
 </dependencies>

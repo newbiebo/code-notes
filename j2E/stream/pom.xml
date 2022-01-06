@@ -23,6 +23,14 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>com.sinosoft.dlis.common.util</groupId>
+            <artifactId>dlis-util-file</artifactId>
+            <version>1.0.1-SNAPSHOT</version>
+            <classifier>sources</classifier>
+        </dependency>
+    </dependencies>
 
 
 </project>

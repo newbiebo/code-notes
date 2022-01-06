@@ -21,11 +21,12 @@ public class StreamCommon {
 
     public ArrayList<String> addByCollections(){
 
+
+
         ArrayList<String> arrayListForMap = new ArrayList();
         Collections.addAll(arrayListForMap,"100","200","300","400");
         return arrayListForMap;
 
 
     }
-
 }
