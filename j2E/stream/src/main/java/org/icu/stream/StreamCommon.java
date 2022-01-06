@@ -5,9 +5,6 @@ import java.util.Collections;
 
 public class StreamCommon {
 
-    public StreamCommon() {
-    }
-
     public ArrayList<String> add(){
 
         ArrayList<String> arrayList = new ArrayList();
