@@ -1,5 +1,5 @@
-#3 code-notes
-##3 j2E
+# code-notes
+### j2E
 - genericity
 - lambda
 - stream
