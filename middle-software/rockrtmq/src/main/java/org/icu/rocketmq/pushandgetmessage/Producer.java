@@ -1,4 +1,4 @@
-package org.icu.rocketmq;
+package org.icu.rocketmq.pushandgetmessage;
 
 import org.apache.rocketmq.client.exception.MQBrokerException;
 import org.apache.rocketmq.client.exception.MQClientException;

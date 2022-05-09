@@ -12,6 +12,9 @@
         <module>lambda</module>
         <module>stream</module>
         <module>genericity</module>
+        <module>json</module>
+        <module>List</module>
+        <module>data</module>
     </modules>
 <dependencies>
     <dependency>
@@ -20,7 +23,6 @@
         <version>4.12</version>
         <scope>test</scope>
     </dependency>
-
     <dependency>
         <groupId>org.kohsuke</groupId>
         <artifactId>github-api</artifactId>
